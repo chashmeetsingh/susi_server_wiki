@@ -4,7 +4,7 @@ SUSI Test Servers by Contributors
 |---|---|
 | [amitiwary999](https://github.com//amitiwary999)  |   |
 | [AliAyub007](https://github.com/AliAyub007) |   |
-| [betterclever](https://github.com/betterclever) |   |
+| [betterclever](https://github.com/betterclever) | http://104.198.32.176/  |
 | [chashmeetsingh](https://github.com/chashmeetsingh)  |   |
 | [chiragw15](https://github.com/chiragw15)  |   |
 | [DravitLochan](https://github.com/DravitLochan)  |   |
