@@ -16,5 +16,5 @@ SUSI Test Servers by Contributors
 | [Manveer695](https://github.com/Manveer695)  |   |
 | [mayank408](https://github.com/mayank408)  |   |
 | [rishiraj824](https://github.com/rishiraj824)  |   |
-| (https://github.com/saurabhjn76)[saurabhjn76]  |   |
+| [https://github.com/saurabhjn76](saurabhjn76)  |   |
 | [uday96](https://github.com/uday96)  |   |
